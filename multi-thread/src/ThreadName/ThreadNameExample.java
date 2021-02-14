@@ -1,4 +1,4 @@
-package threadName;
+package ThreadName;
 
 /*
     메인 스레드 이름 출력 및

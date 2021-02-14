@@ -1,5 +1,5 @@
-import BeepPrintExample.BeepPrintExample3;
-import threadName.ThreadNameExample;
+import ThreadName.ThreadNameExample;
+import ThreadPriority.PriorityExample;
 
 public class Main {
 
@@ -13,7 +13,10 @@ public class Main {
         //BeepPrintExample3 beepPrintExample3 = new BeepPrintExample3();
         //beepPrintExample3.beepPrint();
 
-        ThreadNameExample threadNameExample = new ThreadNameExample();
-        threadNameExample.threadNamePrint();
+        //ThreadNameExample threadNameExample = new ThreadNameExample();
+        //threadNameExample.threadNamePrint();
+
+        PriorityExample priorityExample = new PriorityExample();
+        priorityExample.printPriorityThread();
     }
 }
