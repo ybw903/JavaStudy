@@ -1,4 +1,4 @@
-package com.bw;
+package BeepPrintExample;
 
 import java.awt.*;
 

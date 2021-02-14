@@ -1,4 +1,4 @@
-package com.bw;
+package BeepPrintExample;
 
 /*
     메인 스레드와 작업 스레드가 동시에 실행
