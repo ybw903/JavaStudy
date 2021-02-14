@@ -1,3 +1,4 @@
+import SynchronizeMethodAndBlock.MainThreadExample;
 import ThreadName.ThreadNameExample;
 import ThreadPriority.PriorityExample;
 
@@ -16,7 +17,10 @@ public class Main {
         //ThreadNameExample threadNameExample = new ThreadNameExample();
         //threadNameExample.threadNamePrint();
 
-        PriorityExample priorityExample = new PriorityExample();
-        priorityExample.printPriorityThread();
+        //PriorityExample priorityExample = new PriorityExample();
+        //priorityExample.printPriorityThread();
+
+        MainThreadExample mainThreadExample = new MainThreadExample();
+        mainThreadExample.mainThreadRun();
     }
 }
