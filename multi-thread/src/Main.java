@@ -1,22 +1,13 @@
-import ControllThreadState.InterruptMethod.InterruptExample;
-import ControllThreadState.InterruptMethod.StopFlagExample;
-import ControllThreadState.JoinMethod.JoinExample;
-import ControllThreadState.SleepMethod.SleepExample;
-import ControllThreadState.WaitNotifyMethod.WaitNotifyExample;
-import ControllThreadState.YieldMethod.YieldExample;
-import DaemonThread.DaemonExample;
-import SynchronizeMethodAndBlock.MainThreadExample;
-import ThreadName.ThreadNameExample;
-import ThreadPriority.PriorityExample;
-import ThreadState.ThreadStateExample;
+import Study.BasicTest;
+import Study.ControllThreadState.InterruptMethod.InterruptExample;
 
 public class Main {
 
     public static void main(String[] args) {
-        //BeepPrintExample.BeepPrintExample1 beepPrintExample1 = new BeepPrintExample.BeepPrintExample1();
+        //Study.BeepPrintExample.BeepPrintExample1 beepPrintExample1 = new Study.BeepPrintExample.BeepPrintExample1();
         //beepPrintExample1.beepPrint();
 
-        //BeepPrintExample.BeepPrintExample2 beepPrintExample2 = new BeepPrintExample.BeepPrintExample2();
+        //Study.BeepPrintExample.BeepPrintExample2 beepPrintExample2 = new Study.BeepPrintExample.BeepPrintExample2();
         //beepPrintExample2.beepPrint();
 
         //BeepPrintExample3 beepPrintExample3 = new BeepPrintExample3();
@@ -50,9 +41,10 @@ public class Main {
         //stopFlagExample.stopFlagExampleRun();
 
         //InterruptExample interruptExample = new InterruptExample();
-        //interruptExample.interruptExampleRun();
+        //interruptExample.run();
 
-        DaemonExample daemonExample = new DaemonExample();
-        daemonExample.daemonExampleRun();
+        BasicTest basicTest = new InterruptExample();
+        basicTest.run();
+
     }
 }
