@@ -1,5 +1,6 @@
 package Study.DaemonThread;
 
+import Study.AutoSaveThread;
 import Study.BasicTest;
 
 public class DaemonExample extends BasicTest{

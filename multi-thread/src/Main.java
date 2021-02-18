@@ -1,5 +1,7 @@
 import Study.BasicTest;
 import Study.ControllThreadState.InterruptMethod.InterruptExample;
+import Study.ThreadGroup.ThreadGroupExample;
+import Study.ThreadGroup.ThreadinfoExample;
 
 public class Main {
 
@@ -43,7 +45,7 @@ public class Main {
         //InterruptExample interruptExample = new InterruptExample();
         //interruptExample.run();
 
-        BasicTest basicTest = new InterruptExample();
+        BasicTest basicTest = new ThreadGroupExample();
         basicTest.run();
 
     }

@@ -1,4 +1,4 @@
-package Study.DaemonThread;
+package Study;
 
 public class AutoSaveThread extends Thread{
     public void save() {
