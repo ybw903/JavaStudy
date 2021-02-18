@@ -4,6 +4,7 @@ import ControllThreadState.JoinMethod.JoinExample;
 import ControllThreadState.SleepMethod.SleepExample;
 import ControllThreadState.WaitNotifyMethod.WaitNotifyExample;
 import ControllThreadState.YieldMethod.YieldExample;
+import DaemonThread.DaemonExample;
 import SynchronizeMethodAndBlock.MainThreadExample;
 import ThreadName.ThreadNameExample;
 import ThreadPriority.PriorityExample;
@@ -48,7 +49,10 @@ public class Main {
         //StopFlagExample stopFlagExample = new StopFlagExample();
         //stopFlagExample.stopFlagExampleRun();
 
-        InterruptExample interruptExample = new InterruptExample();
-        interruptExample.interruptExampleRun();
+        //InterruptExample interruptExample = new InterruptExample();
+        //interruptExample.interruptExampleRun();
+
+        DaemonExample daemonExample = new DaemonExample();
+        daemonExample.daemonExampleRun();
     }
 }
