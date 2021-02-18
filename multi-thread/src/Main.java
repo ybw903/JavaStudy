@@ -1,3 +1,9 @@
+import ControllThreadState.InterruptMethod.InterruptExample;
+import ControllThreadState.InterruptMethod.StopFlagExample;
+import ControllThreadState.JoinMethod.JoinExample;
+import ControllThreadState.SleepMethod.SleepExample;
+import ControllThreadState.WaitNotifyMethod.WaitNotifyExample;
+import ControllThreadState.YieldMethod.YieldExample;
 import SynchronizeMethodAndBlock.MainThreadExample;
 import ThreadName.ThreadNameExample;
 import ThreadPriority.PriorityExample;
@@ -24,7 +30,25 @@ public class Main {
         //MainThreadExample mainThreadExample = new MainThreadExample();
         //mainThreadExample.mainThreadRun();
 
-        ThreadStateExample threadStateExample = new ThreadStateExample();
-        threadStateExample.threadStatePrint();
+        //ThreadStateExample threadStateExample = new ThreadStateExample();
+        //threadStateExample.threadStatePrint();
+
+        //SleepExample sleepExample = new SleepExample();
+        //sleepExample.sleepExampleRun();
+
+        //YieldExample yieldExample = new YieldExample();
+        //yieldExample.YieldExampleRun();
+
+        //JoinExample joinExample = new JoinExample();
+        //joinExample.joinExampleRun();
+
+        //WaitNotifyExample waitNotifyExample = new WaitNotifyExample();
+        //waitNotifyExample.waitNotifyExampleRun2();
+
+        //StopFlagExample stopFlagExample = new StopFlagExample();
+        //stopFlagExample.stopFlagExampleRun();
+
+        InterruptExample interruptExample = new InterruptExample();
+        interruptExample.interruptExampleRun();
     }
 }
