@@ -1,14 +1,11 @@
 import Study.BasicTest;
-import Study.ControllThreadState.InterruptMethod.InterruptExample;
-import Study.ThreadGroup.ThreadGroupExample;
-import Study.ThreadGroup.ThreadinfoExample;
-import Study.ThreadPool.*;
+import Study.thread.SynchronizeMethodAndBlock.MainThreadExample;
 
 public class Main {
 
     public static void main(String[] args) {
 
-        BasicTest basicTest = new CallbackExample();
+        BasicTest basicTest = new MainThreadExample();
         basicTest.run();
 
     }

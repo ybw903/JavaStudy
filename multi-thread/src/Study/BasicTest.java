@@ -1,8 +1,9 @@
 package Study;
 
-public class BasicTest {
+//Template Method
+public abstract class BasicTest {
 
-    public void run(){};
+    public abstract void run();
 
     public void runWithException() throws InterruptedException {};
 }
