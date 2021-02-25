@@ -1,18 +1,11 @@
 import chaptor.BasicTest;
-import chaptor.generic.boundedTypeParameter.BoundedTypeParameterExample;
-import chaptor.generic.childProductAndStorageExample.ChildProductAndStorageExample;
-import chaptor.generic.method.BoxingMethodExample;
-import chaptor.generic.method.CompareMethodExample;
-import chaptor.generic.multiTypeParameter.ProductExample;
-import chaptor.generic.type.BoxExample;
-import chaptor.generic.wildCardType.WildCardExample;
-import chaptor.thread.SynchronizeMethodAndBlock.MainThreadExample;
+import chaptor.lambdaExpression.targetTypeAndFunctionalInterface.parameterAndReturn.MyFunctionalInterfaceExample;
 
 public class Main {
 
     public static void main(String[] args) {
 
-        BasicTest basicTest = new ChildProductAndStorageExample();
+        BasicTest basicTest = new MyFunctionalInterfaceExample();
         basicTest.run();
 
     }
