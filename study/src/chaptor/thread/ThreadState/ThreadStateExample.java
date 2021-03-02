@@ -1,8 +1,8 @@
 package chaptor.thread.ThreadState;
 
-import chaptor.BasicTest;
+import chaptor.BasicExample;
 
-public class ThreadStateExample extends BasicTest {
+public class ThreadStateExample extends BasicExample {
 
     @Override
     public void run() {

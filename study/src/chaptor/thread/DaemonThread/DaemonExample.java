@@ -1,9 +1,9 @@
 package chaptor.thread.DaemonThread;
 
 import chaptor.AutoSaveThread;
-import chaptor.BasicTest;
+import chaptor.BasicExample;
 
-public class DaemonExample extends BasicTest{
+public class DaemonExample extends BasicExample {
     @Override
     public void run() {
         AutoSaveThread autoSaveThread = new AutoSaveThread();

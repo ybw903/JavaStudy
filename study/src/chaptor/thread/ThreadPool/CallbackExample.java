@@ -1,12 +1,12 @@
 package chaptor.thread.ThreadPool;
 
-import chaptor.BasicTest;
+import chaptor.BasicExample;
 
 import java.nio.channels.CompletionHandler;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-public class CallbackExample extends BasicTest {
+public class CallbackExample extends BasicExample {
     private ExecutorService executorService;
 
     public CallbackExample() {

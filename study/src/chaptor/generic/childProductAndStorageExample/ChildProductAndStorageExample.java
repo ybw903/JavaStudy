@@ -1,8 +1,8 @@
 package chaptor.generic.childProductAndStorageExample;
 
-import chaptor.BasicTest;
+import chaptor.BasicExample;
 
-public class ChildProductAndStorageExample extends BasicTest {
+public class ChildProductAndStorageExample extends BasicExample {
     @Override
     public void run() {
         ChildProduct<Tv, String, String> product = new ChildProduct<>();

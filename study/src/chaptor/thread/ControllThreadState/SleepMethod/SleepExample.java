@@ -1,10 +1,10 @@
 package chaptor.thread.ControllThreadState.SleepMethod;
 
-import chaptor.BasicTest;
+import chaptor.BasicExample;
 
 import java.awt.*;
 
-public class SleepExample extends BasicTest {
+public class SleepExample extends BasicExample {
     @Override
     public void run() {
         Toolkit toolkit = Toolkit.getDefaultToolkit();

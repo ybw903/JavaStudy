@@ -1,8 +1,8 @@
 package chaptor.thread.ControllThreadState.YieldMethod;
 
-import chaptor.BasicTest;
+import chaptor.BasicExample;
 
-public class YieldExample extends BasicTest {
+public class YieldExample extends BasicExample {
     @Override
     public void run() {
         ThreadA threadA = new ThreadA();

@@ -1,12 +1,12 @@
 package chaptor.thread.ThreadGroup;
 
 import chaptor.AutoSaveThread;
-import chaptor.BasicTest;
+import chaptor.BasicExample;
 
 import java.util.Map;
 import java.util.Set;
 
-public class ThreadinfoExample extends BasicTest{
+public class ThreadinfoExample extends BasicExample {
     @Override
     public void run() {
         AutoSaveThread autoSaveThread = new AutoSaveThread();

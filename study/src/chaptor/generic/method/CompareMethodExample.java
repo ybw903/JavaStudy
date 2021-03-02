@@ -1,10 +1,8 @@
 package chaptor.generic.method;
 
-import chaptor.BasicTest;
+import chaptor.BasicExample;
 
-import static chaptor.generic.method.Util.compare;
-
-public class CompareMethodExample extends BasicTest {
+public class CompareMethodExample extends BasicExample {
     @Override
     public void run() {
         Pair<Integer, String> p1 = new Pair<Integer, String>(1, "사과");

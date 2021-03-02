@@ -1,13 +1,13 @@
 package chaptor.thread.ThreadPool;
 
-import chaptor.BasicTest;
+import chaptor.BasicExample;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 
-public class ResultByCallableExample extends BasicTest {
+public class ResultByCallableExample extends BasicExample {
     @Override
     public void run() {
         ExecutorService executorService = Executors.newFixedThreadPool(

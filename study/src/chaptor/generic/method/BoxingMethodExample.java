@@ -1,9 +1,9 @@
 package chaptor.generic.method;
 
-import chaptor.BasicTest;
+import chaptor.BasicExample;
 import chaptor.generic.type.Box;
 
-public class BoxingMethodExample extends BasicTest {
+public class BoxingMethodExample extends BasicExample {
     @Override
     public void run() {
         Box<Integer> box1 = Util.<Integer>boxing(100);

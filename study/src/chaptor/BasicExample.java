@@ -1,7 +1,7 @@
 package chaptor;
 
 //Template Method
-public abstract class BasicTest {
+public abstract class BasicExample {
 
     public abstract void run();
 

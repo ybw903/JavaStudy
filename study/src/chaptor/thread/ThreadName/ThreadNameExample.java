@@ -1,12 +1,12 @@
 package chaptor.thread.ThreadName;
 
-import chaptor.BasicTest;
+import chaptor.BasicExample;
 
 /*
     메인 스레드 이름 출력 및
     UserThread 생성 및 시작
  */
-public class ThreadNameExample extends BasicTest {
+public class ThreadNameExample extends BasicExample {
     @Override
     public void run() {
         Thread mainThread = Thread.currentThread(); // 이 코드를 실행하는 스레드 객체 얻기

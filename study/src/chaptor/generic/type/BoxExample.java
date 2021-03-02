@@ -1,8 +1,8 @@
 package chaptor.generic.type;
 
-import chaptor.BasicTest;
+import chaptor.BasicExample;
 
-public class BoxExample extends BasicTest {
+public class BoxExample extends BasicExample {
     @Override
     public void run() {
         Box box = new Box();

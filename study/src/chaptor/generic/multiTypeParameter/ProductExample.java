@@ -1,8 +1,8 @@
 package chaptor.generic.multiTypeParameter;
 
-import chaptor.BasicTest;
+import chaptor.BasicExample;
 
-public class ProductExample extends BasicTest {
+public class ProductExample extends BasicExample {
     @Override
     public void run() {
         Product<Tv, String> product1 = new Product<Tv, String>();

@@ -1,14 +1,13 @@
-import chaptor.BasicTest;
-import chaptor.lambdaExpression.classMemberAndLocalVariable.useClassMember.UsingThisExample;
-import chaptor.lambdaExpression.classMemberAndLocalVariable.useLocalVariable.UsingLocalVariableExample;
-import chaptor.lambdaExpression.targetTypeAndFunctionalInterface.parameterAndReturn.MyFunctionalInterfaceExample;
+import chaptor.BasicExample;
+import chaptor.lambdaExpression.functionalInterfaceOfStandardAPI.operatorFunctionalInterface.OperatorExample;
+import chaptor.lambdaExpression.functionalInterfaceOfStandardAPI.predicateFunctionalInterface.PredicateExample;
 
 public class Main {
 
     public static void main(String[] args) {
 
-        BasicTest basicTest = new UsingLocalVariableExample();
-        basicTest.run();
+        BasicExample basicExample = new PredicateExample();
+        basicExample.run();
 
     }
 }

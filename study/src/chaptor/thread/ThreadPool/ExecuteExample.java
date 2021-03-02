@@ -1,12 +1,12 @@
 package chaptor.thread.ThreadPool;
 
-import chaptor.BasicTest;
+import chaptor.BasicExample;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ThreadPoolExecutor;
 
-public class ExecuteExample extends BasicTest {
+public class ExecuteExample extends BasicExample {
 
     public void run(){
 

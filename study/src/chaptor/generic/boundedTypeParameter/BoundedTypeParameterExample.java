@@ -1,8 +1,8 @@
 package chaptor.generic.boundedTypeParameter;
 
-import chaptor.BasicTest;
+import chaptor.BasicExample;
 
-public class BoundedTypeParameterExample extends BasicTest {
+public class BoundedTypeParameterExample extends BasicExample {
     @Override
     public void run() {
         //String str = Util. compare("a", "b");

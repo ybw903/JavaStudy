@@ -1,8 +1,8 @@
 package chaptor.thread.ControllThreadState.JoinMethod;
 
-import chaptor.BasicTest;
+import chaptor.BasicExample;
 
-public class JoinExample extends BasicTest {
+public class JoinExample extends BasicExample {
     @Override
     public void run() {
         SumThread sumThread = new SumThread();

@@ -1,8 +1,8 @@
 package chaptor.thread.ThreadPriority;
 
-import chaptor.BasicTest;
+import chaptor.BasicExample;
 
-public class PriorityExample extends BasicTest {
+public class PriorityExample extends BasicExample {
     @Override
     public void run() {
         for(int i=1; i<=10; i++) {

@@ -1,8 +1,8 @@
 package chaptor.lambdaExpression.targetTypeAndFunctionalInterface.parameterAndReturn;
 
-import chaptor.BasicTest;
+import chaptor.BasicExample;
 
-public class MyFunctionalInterfaceExample extends BasicTest {
+public class MyFunctionalInterfaceExample extends BasicExample {
     @Override
     public void run() {
         MyFunctionalInterface fi;

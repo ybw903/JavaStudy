@@ -1,10 +1,10 @@
 package chaptor.thread.ThreadPool;
 
-import chaptor.BasicTest;
+import chaptor.BasicExample;
 
 import java.util.concurrent.*;
 
-public class CompletionServiceExample extends BasicTest {
+public class CompletionServiceExample extends BasicExample {
     @Override
     public void run() {
         ExecutorService executorService = Executors.newFixedThreadPool(

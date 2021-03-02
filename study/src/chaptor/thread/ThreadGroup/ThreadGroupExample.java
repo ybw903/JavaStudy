@@ -1,8 +1,8 @@
 package chaptor.thread.ThreadGroup;
 
-import chaptor.BasicTest;
+import chaptor.BasicExample;
 
-public class ThreadGroupExample extends BasicTest {
+public class ThreadGroupExample extends BasicExample {
     @Override
     public void run() {
         ThreadGroup myGroup = new ThreadGroup("myGroup");

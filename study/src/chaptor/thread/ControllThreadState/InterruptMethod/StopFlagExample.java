@@ -1,8 +1,8 @@
 package chaptor.thread.ControllThreadState.InterruptMethod;
 
-import chaptor.BasicTest;
+import chaptor.BasicExample;
 
-public class StopFlagExample extends BasicTest {
+public class StopFlagExample extends BasicExample {
     @Override
     public void run() {
         PrintThread1 printThread = new PrintThread1();

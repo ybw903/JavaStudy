@@ -1,8 +1,8 @@
 package chaptor.thread.SynchronizeMethodAndBlock;
 
-import chaptor.BasicTest;
+import chaptor.BasicExample;
 
-public class MainThreadExample extends BasicTest {
+public class MainThreadExample extends BasicExample {
     @Override
     public void run() {
         Calculator calculator = new Calculator();

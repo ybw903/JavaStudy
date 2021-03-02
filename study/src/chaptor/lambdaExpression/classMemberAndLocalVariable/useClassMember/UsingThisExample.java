@@ -1,8 +1,8 @@
 package chaptor.lambdaExpression.classMemberAndLocalVariable.useClassMember;
 
-import chaptor.BasicTest;
+import chaptor.BasicExample;
 
-public class UsingThisExample extends BasicTest {
+public class UsingThisExample extends BasicExample {
     @Override
     public void run() {
         UsingThis usingThis = new UsingThis();

@@ -1,10 +1,10 @@
 package chaptor.generic.wildCardType;
 
-import chaptor.BasicTest;
+import chaptor.BasicExample;
 
 import java.util.Arrays;
 
-public class WildCardExample extends BasicTest {
+public class WildCardExample extends BasicExample {
 
     public void registerCourse(Course<?> course) {
         System.out.println(course.getName() + "수강색: "+
