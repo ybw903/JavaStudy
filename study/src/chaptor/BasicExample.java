@@ -5,5 +5,5 @@ public abstract class BasicExample {
 
     public abstract void run();
 
-    public void runWithException() throws InterruptedException {};
+    public void runWithException() throws Exception {};
 }
