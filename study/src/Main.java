@@ -1,4 +1,6 @@
 import chaptor.BasicExample;
+import chaptor.collectionFramework.lifoAndfifoCollection.QueueExample;
+import chaptor.collectionFramework.lifoAndfifoCollection.StackExample;
 import chaptor.collectionFramework.mapCollection.HashMapExample;
 import chaptor.collectionFramework.mapCollection.HashMapExample2;
 import chaptor.collectionFramework.mapCollection.HashtableExample;
@@ -11,7 +13,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        BasicExample basicExample = new ComparatorExample();
+        BasicExample basicExample = new QueueExample();
 //        try {
 //            basicExample.runWithException();
 //        } catch (Exception e) {
