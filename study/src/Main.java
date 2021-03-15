@@ -5,17 +5,19 @@ import chaptor.collectionFramework.mapCollection.HashtableExample;
 import chaptor.collectionFramework.mapCollection.PropertiesExample;
 import chaptor.collectionFramework.setColllection.HashSetExample1;
 import chaptor.collectionFramework.setColllection.HashSetExample2;
+import chaptor.collectionFramework.treeCollection.*;
 
 public class Main {
 
     public static void main(String[] args) {
 
-        BasicExample basicExample = new PropertiesExample();
-        try {
-            basicExample.runWithException();
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+        BasicExample basicExample = new ComparatorExample();
+//        try {
+//            basicExample.runWithException();
+//        } catch (Exception e) {
+//            e.printStackTrace();
+//        }
+        basicExample.run();
 
     }
 }
