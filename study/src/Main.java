@@ -1,19 +1,14 @@
 import chaptor.BasicExample;
-import chaptor.collectionFramework.lifoAndfifoCollection.QueueExample;
-import chaptor.collectionFramework.lifoAndfifoCollection.StackExample;
-import chaptor.collectionFramework.mapCollection.HashMapExample;
-import chaptor.collectionFramework.mapCollection.HashMapExample2;
-import chaptor.collectionFramework.mapCollection.HashtableExample;
-import chaptor.collectionFramework.mapCollection.PropertiesExample;
-import chaptor.collectionFramework.setColllection.HashSetExample1;
-import chaptor.collectionFramework.setColllection.HashSetExample2;
-import chaptor.collectionFramework.treeCollection.*;
+import chaptor.stream.basicStream.iteratorStream.IteratorVsStreamExample;
+import chaptor.stream.basicStream.lambdaExpressionStream.LambdaExpressionExample;
+import chaptor.stream.basicStream.mapAndReduceStream.MapAndReduceExample;
+import chaptor.stream.basicStream.parallelStream.ParallelExample;
 
 public class Main {
 
     public static void main(String[] args) {
 
-        BasicExample basicExample = new QueueExample();
+        BasicExample basicExample = new MapAndReduceExample();
 //        try {
 //            basicExample.runWithException();
 //        } catch (Exception e) {
