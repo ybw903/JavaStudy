@@ -7,17 +7,16 @@ import chaptor.stream.kindsOfStream.FromArrayExample;
 import chaptor.stream.kindsOfStream.FromCollectionExample;
 import chaptor.stream.kindsOfStream.FromFileContentExample;
 import chaptor.stream.kindsOfStream.FromIntRangeExample;
+import chaptor.stream.pipeLine.StreamPipelinesExample;
+
+import java.util.ArrayList;
 
 public class Main {
 
     public static void main(String[] args) {
 
-        BasicExample basicExample = new FromFileContentExample();
-        try {
-            basicExample.runWithException();
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+        BasicExample basicExample = new StreamPipelinesExample();
+        basicExample.run();
         //basicExample.run();
 
     }
