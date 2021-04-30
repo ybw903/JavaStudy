@@ -35,3 +35,7 @@ g
 7study/src/chaptor/ioBasednetwork/tcp/ClientExample.java,5\a\5a5751ae0d1c91833be095f549cbb3c6bbe6ce36
 g
 7study/src/chaptor/ioBasednetwork/tcp/ServerExample.java,4\3\430ad56a216285d854af96105c678e5f8cc27c67
+h
+8study/src/chaptor/ioBasednetwork/tcp/ServerExample2.java,4\8\48df527e784ed4e776da1a60417f18eac05cd616
+h
+8study/src/chaptor/ioBasednetwork/tcp/ClientExample2.java,c\5\c5ce57e1fd9ee83729cf146afbcba40b5e3005aa

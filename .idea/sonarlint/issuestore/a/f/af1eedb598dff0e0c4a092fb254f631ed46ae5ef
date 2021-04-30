@@ -1,20 +1,20 @@
 
-O
-java:S3958"2Refactor the code so this stream pipeline is used.(Ÿúñ¹8Ê»­×/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ıûÉú8Ê»­×/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ıÇäÕøÿÿÿÿ8 ç°×/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Íİ®ş8Ê»­×/
-C
-java:S3864"!Remove this use of "Stream.peek".(§”óşÿÿÿÿ8Ê»­×/
 T	java:S106"9Replace this use of System.out or System.err by a logger.(‰š¾8ûì­×/
 I
-java:S1612",Replace this lambda with a method reference.(Íİ®ş8Ê»­×/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(òˆ†Éşÿÿÿÿ8Ê»­×/
+java:S1612",Replace this lambda with a method reference.(†ÂİŞ8È„³×/
+O
+java:S3958"2Refactor the code so this stream pipeline is used.(Ÿúñ¹8Ê»­×/
 >
 java:S3864"!Remove this use of "Stream.peek".(Íİ®ş8Ê»­×/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ıÇäÕøÿÿÿÿ8 ç°×/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ıûÉú8Ê»­×/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(òˆ†Éşÿÿÿÿ8Ê»­×/
+I
+java:S1612",Replace this lambda with a method reference.(Íİ®ş8Ê»­×/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Íİ®ş8Ê»­×/
 N
 java:S1612",Replace this lambda with a method reference.(§”óşÿÿÿÿ8Ê»­×/
+C
+java:S3864"!Remove this use of "Stream.peek".(§”óşÿÿÿÿ8Ê»­×/
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(§”óşÿÿÿÿ8Ê»­×/
-I
-java:S1612",Replace this lambda with a method reference.(†ÂİŞ8È„³×/
 U	java:S106"9Replace this use of System.out or System.err by a logger.(†ÂİŞ8È„³×/
