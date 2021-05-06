@@ -1,18 +1,18 @@
 
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›“ß™
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ãÇØ–8µ¾©Ö/
-[
-java:S4719!"9Replace charset name argument with StandardCharsets.UTF_8(ƒò°–øÿÿÿÿ8µ¾©Ö/
-E	java:S1081")Either remove or fill this block of code.(ŸäÁ‚8µ¾©Ö/
-[
-java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(´úï­üÿÿÿÿ8µ¾©Ö/
-U	java:S106"9Replace this use of System.out or System.err by a logger.(øäõ¿8µ¾©Ö/
-E	java:S108*")Either remove or fill this block of code.(”ı¾8µ¾©Ö/
-D
-java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8µ¾©Ö/
-l
-java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ß— ùÿÿÿÿ8µ¾©Ö/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÔĞ¨½ùÿÿÿÿ8µ¾©Ö/
-Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ÎÏ¥æşÿÿÿÿ8µ¾©Ö/
-g
-java:S2259."JA "NullPointerException" could be thrown; "serverSocket" is nullable here.(ìêá8µ¾©Ö/
+Y
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(´úï­üÿÿÿÿ8µ¾©Ö/
+j
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(ß— ùÿÿÿÿ8µ¾©Ö/
+C	java:S108")Either remove or fill this block of code.(ŸäÁ‚8µ¾©Ö/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(øäõ¿8µ¾©Ö/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ÎÏ¥æşÿÿÿÿ8µ¾©Ö/
+C	java:S108")Either remove or fill this block of code.(”ı¾8µ¾©Ö/
+e
+java:S2259"JA "NullPointerException" could be thrown; "serverSocket" is nullable here.(ìêá8µ¾©Ö/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ÔĞ¨½ùÿÿÿÿ8µ¾©Ö/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ãÇØ–8µ¾©Ö/
+Y
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(ƒò°–øÿÿÿÿ8µ¾©Ö/
+m	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›“ß™
+B
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8µ¾©Ö/

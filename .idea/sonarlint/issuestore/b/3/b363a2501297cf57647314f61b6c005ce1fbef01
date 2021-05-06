@@ -1,0 +1,23 @@
+
+V
+java:S4719s"9Replace charset name argument with StandardCharsets.UTF_8(…©Ï¯8Ó¦Ì’/
+J
+java:S1604)"(Make this anonymous inner class a lambda(äë¬±üÿÿÿÿ8Ó¦Ì’/
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(°êì‹úÿÿÿÿ8Ó¦Ì’/
+J	java:S108W")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ8Ó¦Ì’/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ôè•½8Ó¦Ì’/
+h
+java:S1192U"FDefine a constant instead of duplicating this literal "start" 3 times.(™Üì»üÿÿÿÿ8‘ÄÎ’’/
+K
+java:S1604‡"(Make this anonymous inner class a lambda(äë¬±üÿÿÿÿ8Ó¦Ì’/
+‡
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(°êì‹úÿÿÿÿ8Ó¦Ì’/
+W
+java:S4719‹"9Replace charset name argument with StandardCharsets.UTF_8(‹àèØ8Ó¦Ì’/
+K	java:S108€")Either remove or fill this block of code.(—ãİüÿÿÿÿ8Ó¦Ì’/
+J
+java:S1604c"(Make this anonymous inner class a lambda(äë¬±üÿÿÿÿ8Ó¦Ì’/
+D
+java:S21890""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Ó¦Ì’/
+K	java:S108—")Either remove or fill this block of code.(—ãİüÿÿÿÿ8Ó¦Ì’/
