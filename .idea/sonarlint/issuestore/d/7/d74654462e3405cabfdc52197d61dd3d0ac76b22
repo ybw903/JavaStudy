@@ -1,0 +1,7 @@
+
+i
+java:S1858"G"data" is already a string, there's no need to call "toString()" on it.(û‹‘Ûùÿÿÿÿ8‹Ááþ“/
+d
+java:S2259"BA "NullPointerException" could be thrown; "data" is nullable here.(û‹‘Ûùÿÿÿÿ8‹Ááþ“/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(û‹‘Ûùÿÿÿÿ8‹Ááþ“/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ù›åˆ8¬ªäþ“/

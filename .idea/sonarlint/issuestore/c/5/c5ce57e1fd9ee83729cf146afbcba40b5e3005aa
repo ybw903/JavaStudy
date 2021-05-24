@@ -1,16 +1,16 @@
 
-X	java:S106"9Replace this use of System.out or System.err by a logger.(ÎÏ¥æşÿÿÿÿ8ÓÚ–Ö/
-X	java:S106"9Replace this use of System.out or System.err by a logger.(ÍáÎùÿÿÿÿ8ÓÚ–Ö/
-_
-java:S2259"DA "NullPointerException" could be thrown; "socket" is nullable here.(³°Î£8áÆ˜Ö/
-d
-java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(º‚ñÍûÿÿÿÿ8ÓÚ–Ö/
-Y
-java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(´úï­üÿÿÿÿ8ÓÚ–Ö/
-Y
-java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(ƒò°–øÿÿÿÿ8ÓÚ–Ö/
-m	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›“ß™
-X	java:S106"9Replace this use of System.out or System.err by a logger.(ÔĞ¨½ùÿÿÿÿ8ÓÚ–Ö/
-S	java:S106"9Replace this use of System.out or System.err by a logger.(óÈ¿é8ÓÚ–Ö/
-C	java:S108")Either remove or fill this block of code.(”ı¾8ÓÚ–Ö/
-C	java:S108")Either remove or fill this block of code.(ŸäÁ‚8áÆ˜Ö/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÎÏ¥æşÿÿÿÿ8ÓÚ–Ö/
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ÔĞ¨½ùÿÿÿÿ8ÓÚ–Ö/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(óÈ¿é8ÓÚ–Ö/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›“ß™
+a
+java:S2259'"DA "NullPointerException" could be thrown; "socket" is nullable here.(³°Î£8áÆ˜Ö/
+E	java:S108*")Either remove or fill this block of code.(ŸäÁ‚8áÆ˜Ö/
+[
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(ƒò°–øÿÿÿÿ8ÓÚ–Ö/
+[
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(´úï­üÿÿÿÿ8ÓÚ–Ö/
+E	java:S108$")Either remove or fill this block of code.(”ı¾8ÓÚ–Ö/
+f
+java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(º‚ñÍûÿÿÿÿ8ÓÚ–Ö/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÍáÎùÿÿÿÿ8ÓÚ–Ö/

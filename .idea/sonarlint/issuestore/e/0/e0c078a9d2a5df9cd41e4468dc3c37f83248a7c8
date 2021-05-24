@@ -1,13 +1,13 @@
 
-V
-java:S4719H"9Replace charset name argument with StandardCharsets.UTF_8(…©Ï¯8šàË’/
-D	java:S1089")Either remove or fill this block of code.(Éò§+8ÆØ¾’/
-V
-java:S4719X"9Replace charset name argument with StandardCharsets.UTF_8(‹àèØ8öå¢’’/
 n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·ØµJ
-G
-java:S1659h"%Declare "btnSend" on a separate line.(¸Ë¬şÿÿÿÿ8‡Õ­’’/
 h
 java:S11923"FDefine a constant instead of duplicating this literal "start" 3 times.(˜…Ş ùÿÿÿÿ8œ­Ú’’/
+V
+java:S4719X"9Replace charset name argument with StandardCharsets.UTF_8(‹àèØ8öå¢’’/
+D	java:S1089")Either remove or fill this block of code.(Éò§+8ÆØ¾’/
+G
+java:S1659h"%Declare "btnSend" on a separate line.(¸Ë¬şÿÿÿÿ8‡Õ­’’/
+V
+java:S4719H"9Replace charset name argument with StandardCharsets.UTF_8(…©Ï¯8šàË’/
 y
 java:S1192#"WDefine a constant instead of duplicating this literal "[ì„œë²„ í†µì‹  ì•ˆë¨]" 3 times.(åé¦†ÿÿÿÿÿ8Ü¯Ş’’/
