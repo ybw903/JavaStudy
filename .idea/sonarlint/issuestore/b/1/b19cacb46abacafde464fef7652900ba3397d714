@@ -1,0 +1,9 @@
+
+n
+java:S2095	"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(ì¹ëÿÿÿÿÿ8æá·â™/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¢¥˜Å8ƒˆÂâ™/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¡¨08¼¦Àâ™/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(íÙ¥öüÿÿÿÿ8æá·â™/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷ı§«
+V
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(‹àèØ8ı©¾â™/

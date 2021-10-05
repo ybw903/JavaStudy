@@ -1,0 +1,13 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(úş©¶8½œ¸å™/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(àÑÆúÿÿÿÿ8ôÁµå™/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ö‘ˆ³üÿÿÿÿ8½œ¸å™/
+
+java:S1130	"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8ôÁµå™/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8§Óºå™/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Œèğ‡ûÿÿÿÿ8§Óºå™/
+M
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8†¤üå™/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÍÅÍ‰ùÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8½œ¸å™/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÙğñ8ôÁµå™/

@@ -1,0 +1,11 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Éœ¾ôıÿÿÿÿ8ˆÏâ™/
+V
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(“»¤ª8ˆÏâ™/
+]
+java:S2134"@Don't extend "Thread", since the "run" method is not overridden.(­‡²8ù¸Äâ™/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÔŠ‘Ñüÿÿÿÿ8ˆÏâ™/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ìÑŠÃûÿÿÿÿ8ˆÏâ™/
+i
+java:S2095"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(Ÿ’¿8ˆÏâ™/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷ı§«
