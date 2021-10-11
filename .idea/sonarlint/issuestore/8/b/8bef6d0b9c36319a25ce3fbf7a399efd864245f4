@@ -1,15 +1,15 @@
 
-N
-java:S1481"1Remove this unused "watchService" local variable.(íÏê8ˆÔå™/
-P
-java:S1481".Remove this unused "directory" local variable.(ÛÎÿÎùÿÿÿÿ8Ò÷Õå™/
+g
+java:S2095"JUse try-with-resources or close this "WatchService" in a "finally" clause.(íÏê8ˆÔå™/
+T
+java:S1135	"2Complete the task associated to this TODO comment.(™°Ò‚üÿÿÿÿ8¯º¾Šš/
 ]
 java:S1854"@Remove this useless assignment to local variable "watchService".(íÏê8ˆÔå™/
 E	java:S108")Either remove or fill this block of code.(”ı¾8ˆÔå™/
 _
 java:S1854"=Remove this useless assignment to local variable "directory".(ÛÎÿÎùÿÿÿÿ8Ò÷Õå™/
+N
+java:S1481"1Remove this unused "watchService" local variable.(íÏê8ˆÔå™/
+P
+java:S1481".Remove this unused "directory" local variable.(ÛÎÿÎùÿÿÿÿ8Ò÷Õå™/
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÍÅÍ‰ùÿÿÿÿ
-T
-java:S1135	"2Complete the task associated to this TODO comment.(™°Ò‚üÿÿÿÿ8¯º¾Šš/
-g
-java:S2095"JUse try-with-resources or close this "WatchService" in a "finally" clause.(íÏê8ˆÔå™/

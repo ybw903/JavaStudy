@@ -87,3 +87,12 @@ o
 ?study/src/chaptor/nioBasedNetwork/buffer/BufferSizeExample.java,e\c\ecb9008a12d0ae9f5145353b89bc362ad2f7e93c
 p
 @study/src/chaptor/nioBasedNetwork/buffer/PerformanceExample.java,2\6\26bcbc0f391a34cb72bf4035c7a611465314d2f5
+Q
+!effective-java/effective-java.iml,b\b\bb6d33d20bd1fb0c5b93f709772ec5ee2e2fbeb2
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+M
+effective-java/docs/CHAP02.md,2\f\2f3dbf8a3f22c636db39fe56d22de87f41eec8e7
