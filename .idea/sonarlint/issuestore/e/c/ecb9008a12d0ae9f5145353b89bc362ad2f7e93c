@@ -1,11 +1,11 @@
 
 o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼œö
-V
-java:S1481"4Remove this unused "nonDirectBuffer" local variable.(èœãıÿÿÿÿ8İ£ØŠš/
 e
 java:S1854"CRemove this useless assignment to local variable "nonDirectBuffer".(èœãıÿÿÿÿ8İ£ØŠš/
 S
 java:S1481"1Remove this unused "directBuffer" local variable.(Ñóíùÿÿÿÿ8İ£ØŠš/
+V
+java:S1481"4Remove this unused "nonDirectBuffer" local variable.(èœãıÿÿÿÿ8İ£ØŠš/
 U	java:S106"9Replace this use of System.out or System.err by a logger.(÷´¼ù8İ£ØŠš/
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(é„¼ùúÿÿÿÿ8‡™ÙŠš/
 b

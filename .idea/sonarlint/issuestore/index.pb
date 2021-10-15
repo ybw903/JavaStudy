@@ -96,3 +96,5 @@ Q
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 M
 effective-java/docs/CHAP02.md,2\f\2f3dbf8a3f22c636db39fe56d22de87f41eec8e7
+M
+effective-java/docs/CHOP03.md,f\c\fce5f2463cbd188f216e15a627dcdd449abab94c
