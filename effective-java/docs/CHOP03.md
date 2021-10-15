@@ -149,6 +149,43 @@ private int hashCode; // Automatically initialized to 0
 }
 ```
 ### Item12. toString 을 항상 재정의하자.
+Object.toString() 메서드 : [클래스이름]@[16진수로 표시한 해시코드] 포맷을 갖습니다..
+<br/>ex) PhnoneNumber@adbbd
+
+**실용적인 toString 메서드는 객체에 포함된 흥미로운 모든 정보를 반환해야 합니다.**
+
+####toString Method를 구현할 때, 고려할 사항
+toString을 구현할 때면 반환값의 포맷을 문서화 할 지 정해야 한다.
+
+포맷을 명시하면, 그 객체는 표준적이고, 명확하고, 사람이 읽을 수 있게 된다.
+
+포맷을 명시하기로 했으면, 명시한 포맷에 맞는 문자열과 객체를 상호전환 할 수 있는 정적 팩터리나 생성자를 함께 제공하면 좋다.
+ex)Integer.toString(); / Integer.parseInt(string)
+
+단, 포맷을 한번 명시하면, 평생 그 포맷에 얽매이게 된다.
+
+포맷을 명시하지 않는다면 다음 릴리즈에 포맷을 변경할 수 있는 유연성을 더 가져갈 수 있다.
+
+포맷을 명시하든 아니든, 개발자의 의도는 명확히 밝혀야 한다.
+
+toString이 반환한 값에 대해 포함된 정보를 얻어올 수 있는 API를 제공하자
+
+toString에 있는 getter를 제공하지 않는다면, 클라이언트에서 toString을 파싱하여 사용할 지도 모릅니다.
+
+#### toString을 따로 재정의 안해도 되는 경우
+정적 Utils 클래스는 따로 재정의 하지 않아도 된다. (객체의 상태(state)를 가지는 클래스가 아니기 떄문)
+
+enum 타입 또한 이미 완벽한 toString을 제공한다.
+
+대다수의 컬렉션 구현체는 추상 컬렉션 클래스(AbstractMap, AbstractSet등)의 toString 메서드를 상속하여 쓴다.
+
+라이브러리를 통해 자동생성하자
+
+    구글의 @Autovalue
+    
+    Lombok의 @ToString
+
+위의 라이브러리들을 이용해 자동생성하는 편이 더 간편하다.
 
 ### Item13. clone 재정의는 주의해서 진행하자.
 
