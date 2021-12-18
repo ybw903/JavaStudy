@@ -6,6 +6,7 @@ import domain.menu.MenuItem;
 public class Barista implements IBarista{
     @Override
     public Coffee makeCoffee(MenuItem menuItem) {
-        return null;
+        Coffee coffee = new Coffee(menuItem);
+        return coffee;
     }
 }
